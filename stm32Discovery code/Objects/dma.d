@@ -1,0 +1,13 @@
+.\objects\dma.o: dma.c
+.\objects\dma.o: C:\Users\USER\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\2.15.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include\stm32f4xx.h
+.\objects\dma.o: C:\Users\USER\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\2.15.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include\stm32f407xx.h
+.\objects\dma.o: C:\Users\USER\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\core_cm4.h
+.\objects\dma.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\dma.o: C:\Users\USER\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_version.h
+.\objects\dma.o: C:\Users\USER\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_compiler.h
+.\objects\dma.o: C:\Users\USER\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_armcc.h
+.\objects\dma.o: C:\Users\USER\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\mpu_armv7.h
+.\objects\dma.o: C:\Users\USER\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\2.15.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include\system_stm32f4xx.h
+.\objects\dma.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdbool.h
+.\objects\dma.o: dma.h
+.\objects\dma.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
