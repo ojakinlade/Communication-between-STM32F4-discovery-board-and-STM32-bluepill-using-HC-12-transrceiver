@@ -67,5 +67,5 @@ bool System_TimerDoneCounting(sysTimer_t* pSysTimer)
 
 uint32_t System_GetTick(void)
 {
-	return System_GetTick();
+	return SysTick_GetTick();
 }
